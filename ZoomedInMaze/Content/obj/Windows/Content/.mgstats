@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"H:/MonogameSpring2022/ZoomedInMaze/ZoomedInMaze/Content/brickWall.png","H:/MonogameSpring2022/ZoomedInMaze/ZoomedInMaze/Content/bin/Windows/Content/brickWall.xnb","TextureProcessor","Texture2DContent",2697547,12292121,2.3041215
+"H:/MonogameSpring2022/ZoomedInMaze/ZoomedInMaze/Content/minecraftGrass.png","H:/MonogameSpring2022/ZoomedInMaze/ZoomedInMaze/Content/bin/Windows/Content/minecraftGrass.xnb","TextureProcessor","Texture2DContent",3883,202585,0.2097931
+"H:/MonogameSpring2022/ZoomedInMaze/ZoomedInMaze/Content/qbert.png","H:/MonogameSpring2022/ZoomedInMaze/ZoomedInMaze/Content/bin/Windows/Content/qbert.xnb","TextureProcessor","Texture2DContent",73953,293717,0.3045545
